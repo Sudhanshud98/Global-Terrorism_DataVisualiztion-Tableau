@@ -1,1 +1,2 @@
 # Global-Terrorism_DataVisualiztion-Tableau
+The data visualization project on global terrorism will have several benefits to different stakeholders. First, policymakers can use the insights from the visualization to inform their decisions and strategies related to counterterrorism. Second, researchers and academics can use the data to further their research on terrorism and related topics. Finally, the public can use the visualization to gain a deeper understanding of the global terrorism landscape and its impact on societies.
